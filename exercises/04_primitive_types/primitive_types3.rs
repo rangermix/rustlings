@@ -8,7 +8,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let a = ???
+    let a = [1..3333].to_vec();
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
